@@ -6,7 +6,7 @@
 }
 
 html {
-  font-family: var(--font-primary;)
+  font-family: var(--font-primary);
 }
 
 .card {
@@ -16,7 +16,7 @@ html {
   border-radius: var(--border-radius);
 }
 
-card-title {
+.card-title {
   color: var(--color-primary);
   font-family: var(--font-secondary);
 }
@@ -25,4 +25,5 @@ card-title {
   background-color: var(--color-primary);
   border-color: var(--color-primary);
   border-radius: var(--border-radius);
+  font-family: var(--font-secondary);
 }
